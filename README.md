@@ -89,9 +89,18 @@ We welcome contributions from the community! Please see our contributing guideli
 ## Citation
 If you use CREME in your research, please cite our paper:
 
-`
-Toneyan S, Koo PK. Interpreting cis-regulatory interactions from large-scale deep neural networks for genomics. bioRxiv. 2023.
-`
+Toneyan, S., Koo, P.K. Interpreting _cis_-regulatory interactions from large-scale deep neural networks. _Nat Genet_ __56__, 2517–2527 (2024). https://doi.org/10.1038/s41588-024-01923-3
+
+```bibtex
+@article{toneyan2024interpreting,
+  title={Interpreting cis-regulatory interactions from large-scale deep neural networks},
+  author={Toneyan, Shushan and Koo, Peter K},
+  journal={Nature Genetics},
+  pages={1--11},
+  year={2024},
+  publisher={Nature Publishing Group US New York}
+}
+```
 
 ## License
 [MIT License](https://github.com/p-koo/creme-nn/blob/master/LICENSE)
